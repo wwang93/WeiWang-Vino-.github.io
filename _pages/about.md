@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a secnod year PhD student of University of Tennessee.
+👨🏻‍💻 I'm a second year PhD student at the UT Knoxville.
+
+🔬 My research interests are in GenAI in Education and Self-Supervised Learning!
+
+📚 I'm currently working towards my PISA paper in the field of ICI use in Education.
+
+📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 A data-driven personal website
 ======
