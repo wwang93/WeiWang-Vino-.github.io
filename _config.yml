@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wei Wang(Vino)"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wwang93.github.io/WeiWang-Vino-.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WeiWang-Vino-.github.io"
 
@@ -21,7 +21,7 @@ repository               : "WeiWang-Vino-.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Wei_headshot.jpg"
+  avatar           : "profile.png"
   name             : "Wei Wang(Vino)"
   pronouns         : # example: "He/his"  
   bio              : "GenAI in Education"
