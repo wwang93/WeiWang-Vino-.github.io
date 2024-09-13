@@ -22,11 +22,11 @@ repository               : "WeiWang-Vino-.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Wei Wang(Vino)"
+  pronouns         : # example: "He/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Tennessee"
   uri              : # URL
   email            : "none@example.org" 
 
