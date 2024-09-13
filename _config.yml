@@ -21,11 +21,11 @@ repository               : "WeiWang-Vino-.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bio Photo.JPG"
+  avatar           : "Wei_headshot.jpg"
   name             : "Wei Wang(Vino)"
   pronouns         : # example: "He/his"  
   bio              : "GenAI in Education"
-  location         : "TN"
+  location         : "TN,USA"
   employer         : "University of Tennessee"
   uri              : # URL
   email            : "wwang93@vols.utk.edu" 
