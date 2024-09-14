@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a second year PhD student at the UT Knoxville.
+👨🏻‍💻 I'm a second year PhD student at the UT Knoxville，major in Learning Design and Technology（LDT）.
 
-🔬 My research interests are in GenAI in Education and Self-Supervised Learning!
+🔬 My research interests are in ICT(GenAI) use in Education,Educational Data science,Educational technology,Large Education Datasets Assessment.
 
 📚 I'm currently working towards my PISA paper in the field of ICI use in Education.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📽️ I am also interested in assisting others on their path in the world of Education Evaluation Statistics Methodology（ESM）.
 
 
 # Selected Experience
@@ -24,11 +24,11 @@ I have experience contributing to [Konfound](https://github.com/konfound-project
 For more infomation for this package, see the published paper [Konfound paper](https://joss.theoj.org/papers/10.21105/joss.05779.pdf) at the Journal of Open Source Software.
 
 ## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+I have experience with some independent studies. 
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+I conducted a study on college students’ continued learning intention toward e-learning spaces post COVID-19, using an improved ECM-ISC model. By adding students’ initial intention and teacher guidance as variables, the model demonstrated strong explanatory power through linear regression and SEM, offering insights into factors influencing continued e-learning use.
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+I am currently analyzing AI-related teaching resources on Teachers Pay Teachers (TpT) using 2023 data. This study leverages web scraping, clustering, and NLP to categorize over 2,200 resources by various features and examines how these factors influence teacher engagement and usage.
 
 ## 👨🏻‍🔬 Professional Experience
 Currently I am working as a **PhD Student Researcher** at the [MDSC](https://makingdatasciencecount.com/)  Lab at the University of Tennessee under the supervision of [Dr. Joshua Rosenberg](https://joshuamrosenberg.com/) working on **Computational social science cookbook with R: A practical guide**.
