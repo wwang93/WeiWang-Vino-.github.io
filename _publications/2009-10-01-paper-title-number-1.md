@@ -1,7 +1,7 @@
 ---
 title: "An ECM-ISC based on college students’ continued learning intention toward e-learning space post COVID-19"
 collection: publications
-category: manuscripts
+category: Journal Article
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2021-12-07
 venue: 'Open Journal of Social Sciences'
