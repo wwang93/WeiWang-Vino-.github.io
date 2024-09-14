@@ -31,10 +31,10 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+Currently I am working as a **PhD Student Researcher** at the [MDSC](https://makingdatasciencecount.com/)  Lab at the University of Tennessee under the supervision of [Dr. Joshua Rosenberg](https://joshuamrosenberg.com/) working on **Computational social science cookbook with R: A practical guide**.
+
+Additionally, I have professional experience working as an **Applied AI in Education Student Researcher** at the [AIRELAB](https://airelab.online/) under the supervison of [Dr. Fatima T. Zahra](https://www.linkedin.com/in/fatima-t-zahra-ph-d-6877aa14/) working on **Spencer Large Grant Application about Teaching Critically with Generative Artificial Intelligence**. \
+There I worked as GA.
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
-
+To further contribute to the Learning Design and Technology community, I worked as a Insruction Designer to design series of workshops [Teaching with Generative AI workshop](https://workshop.utk.edu/workshopinfo.php?workshop=1352) to equip educators with the knowledge and skills to integrate generative AI (GenAI) tools effectively into their teaching practices. Participants will explore the fundamentals of GenAI, delve into its applications in education, and learn how to utilize GenAI-enhanced tools for both teacher and student use, while also navigating ethical and privacy concerns.
