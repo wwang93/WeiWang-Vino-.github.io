@@ -26,7 +26,7 @@ For more infomation for this package, see the published paper [Konfound paper](h
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with some independent studies. 
 
-I conducted a study on college students’ continued learning intention toward e-learning spaces post COVID-19, using an improved ECM-ISC model. By adding students’ initial intention and teacher guidance as variables, the model demonstrated strong explanatory power through linear regression and SEM, offering insights into factors influencing continued e-learning use.
+I conducted a [study](https://www.scirp.org/journal/paperinformation?paperid=114098) on college students’ continued learning intention toward e-learning spaces post COVID-19, using an improved ECM-ISC model. By adding students’ initial intention and teacher guidance as variables, the model demonstrated strong explanatory power through linear regression and SEM, offering insights into factors influencing continued e-learning use.
 
 I am currently analyzing AI-related teaching resources on Teachers Pay Teachers (TpT) using 2023 data. This study leverages web scraping, clustering, and NLP to categorize over 2,200 resources by various features and examines how these factors influence teacher engagement and usage.
 
