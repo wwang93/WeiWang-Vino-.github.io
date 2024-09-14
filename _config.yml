@@ -21,7 +21,7 @@ repository               : "WeiWang-Vino-.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "homepage.png"
+  avatar           : "homepage1.png"
   name             : "Wei Wang(Vino)"
   pronouns         : # example: "He/his"  
   bio              : "GenAI in Education"
