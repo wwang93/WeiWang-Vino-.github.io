@@ -23,7 +23,7 @@ I have experience contributing to [Konfound](https://github.com/konfound-project
 
 For more infomation for this package, see the published paper [Konfound paper](https://joss.theoj.org/papers/10.21105/joss.05779.pdf) at the Journal of Open Source Software.
 
-## 📜 Reimplementing and Reproducing Papers
+## 📜 Implementing and Producing Papers
 I have experience with some independent studies. 
 
 I conducted a [study](https://www.scirp.org/journal/paperinformation?paperid=114098) on college students’ continued learning intention toward e-learning spaces post COVID-19, using an improved ECM-ISC model. By adding students’ initial intention and teacher guidance as variables, the model demonstrated strong explanatory power through linear regression and SEM, offering insights into factors influencing continued e-learning use.
