@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, this is Wei(Vino)"
+title: "👋🏼Hello there, this is Vino"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,9 +19,9 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+I have experience contributing to [Konfound](https://github.com/konfound-project/konfound) a large open-source package for Quantify the Robustness of Causal Inferences.
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+For more infomation for this package, see the published paper [Konfound paper](https://joss.theoj.org/papers/10.21105/joss.05779.pdf) at the Journal of Open Source Software.
 
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
