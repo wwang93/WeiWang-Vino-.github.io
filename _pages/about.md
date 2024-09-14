@@ -37,4 +37,4 @@ Additionally, I have professional experience working as an **Applied AI in Educa
 There I worked as GA.
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Learning Design and Technology community, I worked as a Insruction Designer to design series of workshops [Teaching with Generative AI workshop](https://workshop.utk.edu/workshopinfo.php?workshop=1352) to equip educators with the knowledge and skills to integrate generative AI (GenAI) tools effectively into their teaching practices. Participants will explore the fundamentals of GenAI, delve into its applications in education, and learn how to utilize GenAI-enhanced tools for both teacher and student use, while also navigating ethical and privacy concerns.
+To further contribute to the Learning Design and Technology community, I worked as a Insruction Designer to design series of workshops [Teaching with Generative AI workshop](https://workshop.utk.edu/workshopinfo.php?workshop=1352) to equip educators with the knowledge and skills to integrate generative AI (GenAI) tools effectively into their teaching practices. 
