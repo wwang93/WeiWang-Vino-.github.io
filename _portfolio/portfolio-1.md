@@ -6,3 +6,5 @@ collection: portfolio
 
 ![Jersey](images/Jersey.png){: .align-center}
 
+![Jersey](./images/Jersey.png)
+
