@@ -9,7 +9,7 @@ redirect_from:
 
 ![Vino](images/vino.png){: .align-center}
 
-![AERA](images/Bio.JPG){: .align-center}
+![AERA](images/homepage.png){: .align-center}
 
 👨🏻‍💻 I'm a second year PhD student at the UT Knoxville，major in Learning Design and Technology（LDT）.
 
