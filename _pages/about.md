@@ -9,6 +9,8 @@ redirect_from:
 
 ![Vino](images/vino.png){: .align-center}
 
+![AERA](images/Bio.JPG){: .align-center}
+
 👨🏻‍💻 I'm a second year PhD student at the UT Knoxville，major in Learning Design and Technology（LDT）.
 
 🔬 My research interests are in ICT(GenAI) use in Education,Educational Data science,Educational technology,Large Education Datasets Assessment.
