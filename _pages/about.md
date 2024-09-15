@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[ChatGPT Policy among Higher Education](images/chatgpt_policy.png){: .align-center}
+![ChatGPT Policy among Higher Education](images/chatgpt_policy.png){: .align-center}
 👨🏻‍💻 I'm a second year PhD student at the UT Knoxville，major in Learning Design and Technology（LDT）.
 
 🔬 My research interests are in ICT(GenAI) use in Education,Educational Data science,Educational technology,Large Education Datasets Assessment.
