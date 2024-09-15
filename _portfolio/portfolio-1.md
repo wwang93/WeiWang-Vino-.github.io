@@ -8,5 +8,4 @@ collection: portfolio
 
 ![Jersey](./images/Jersey.png)
 
-![Jersey]({{ site.baseurl }}/images/Jersey.png)
 
