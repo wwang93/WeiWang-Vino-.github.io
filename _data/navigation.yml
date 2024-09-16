@@ -21,7 +21,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_WEI WANG.pdf
+   # url: /cv/
     
   #- title: "Guide"
     #url: /markdown/
