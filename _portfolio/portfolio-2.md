@@ -1,6 +1,6 @@
 ---
 title: "Smokey mountain"
-excerpt: "Beautiful Tennessee <br/><img src='/images/Jersey.png'>"
+excerpt: "Beautiful Tennessee <br/><img src='/images/beautiful.png'>"
 collection: portfolio
 ---
 
