@@ -4,11 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/Jer
 collection: portfolio
 ---
 
-![Jersey](images/Jersey.png){: .align-center}
-
-![Jersey](imagesp/Jersey.png){: .align-center}
-
-![Jersey](./images/Jersey.png)
 
 ![Jersey](../images/Jersey.png)
 
