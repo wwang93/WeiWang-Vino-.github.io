@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Professional Faculty Training Program"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-teaching-1
 venue: "University of Tennessee, Digital Learning Unit"
 date: 2024-07-15
 location: "Knoxille, USA"
