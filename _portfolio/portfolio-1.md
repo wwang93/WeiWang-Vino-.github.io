@@ -10,4 +10,7 @@ collection: portfolio
 
 ![Jersey](./images/Jersey.png)
 
+![Jersey](../images/Jersey.png)
+
+
 
